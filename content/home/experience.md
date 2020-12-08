@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://comp.nus.edu.sg"
   location = "Singapore"
   date_start = "2019-07-04"
-  date_end = "2019-07-04"
+  date_end = "2019-08-04"
   description = """
   Attend SDR related project:
   
