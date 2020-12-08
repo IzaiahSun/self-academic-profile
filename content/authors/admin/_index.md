@@ -4,7 +4,9 @@ role: Undergraduate Student of Cybersecurity
 bio: My research interests include data driven security, source code / binary
   analysis and security related NLP.
 interests:
-  - Data-drivenSecurity;Binary/SouceCodeAnalysis;SecurityRelatedNLP
+  - Data-driven Security
+  - Binary/Souce Code Analysis
+  - SecurityRelatedNLP
 social:
   - icon: envelope
     icon_pack: fas
