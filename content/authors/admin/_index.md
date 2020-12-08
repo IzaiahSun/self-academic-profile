@@ -6,7 +6,7 @@ bio: My research interests include data driven security, source code / binary
 interests:
   - Data-driven Security
   - Binary/Souce Code Analysis
-  - SecurityRelatedNLP
+  - Security Related NLP
 social:
   - icon: envelope
     icon_pack: fas
