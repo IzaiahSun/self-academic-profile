@@ -35,4 +35,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Yuqiang Sun is an undergraduate student at Sichuan University, supervised by [Professor Huang](https://www.chenghuang.org/). He planned to join a Ph.D. program at Nanyang Technological University in 2021 Fall, majoring in cybersecurity, supervised by [Professor Liu](https://personal.ntu.edu.sg/yangliu/). His research interests include data driven security, source code / binary analysis and security related NLP.
+Yuqiang Sun is an undergraduate student at Sichuan University, supervised by [Prof. Huang](https://www.chenghuang.org/). He planned to join a Ph.D. program at Nanyang Technological University in 2021 Fall, majoring in cybersecurity, supervised by [Prof. Liu](https://personal.ntu.edu.sg/yangliu/). His research interests include data driven security, source code / binary analysis and security related NLP.
