@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Ph.D. Candidate"
+  company = "Nanyang Technological University"
+  company_url = "https://www.ntu.edu.sg"
+  location = "Singapore"
+  date_start = "2021-08-10"
+  date_end = "Up to now"
+  description = """
+  Under supervising of [Prof. Liu](https://personal.ntu.edu.sg/yangliu/), focusing on software/source code analysis.
+  """
+
+[[experience]]
   title = "Undergradute Student"
   company = "NUS SoC Summer Workshop"
   company_url = "https://comp.nus.edu.sg"

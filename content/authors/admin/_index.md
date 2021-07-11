@@ -21,18 +21,21 @@ social:
     icon_pack: fas
     icon: book
 organizations:
-  - name: Sichuan University
-    url: ""
+  - name: Nanyang Technological University
+    url: "https://www.ntu.edu.sg"
 education:
   courses:
+    - course: Ph.D.(candidate) in Computer Science
+      institution: Nanyang Technological University
+      year: 2021
     - course: BSc in Cybersecurity
       institution: Sichuan University
       year: 2017
-email: izaiahsun@gmail.com
+email: SUNY0056@e.ntu.edu.sg
 superuser: true
 user_groups:
   - Researchers
   - Visitors
 highlight_name: false
 ---
-Yuqiang Sun is an undergraduate student at Sichuan University, supervised by [Prof. Huang](https://www.chenghuang.org/). He planned to join a Ph.D. program at Nanyang Technological University in 2021 Fall, majoring in cybersecurity, supervised by [Prof. Liu](https://personal.ntu.edu.sg/yangliu/). His research interests include data driven security, source code / binary analysis and security related NLP.
+Yuqiang Sun is now a Ph.D candidate in Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Liu](https://personal.ntu.edu.sg/yangliu/). When he studied in Sichuan University, majoring in cybersecurity, purchesing his bachelor's degree, he was supervised by [Prof. Huang](https://www.chenghuang.org/). His research interests include data driven security, source code / binary analysis and security related NLP.
