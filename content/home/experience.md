@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-08-10"
   date_end = "Up to now"
   description = """
-  Under supervising of [Prof. Liu](https://personal.ntu.edu.sg/yangliu/), focusing on software/source code analysis.
+  Under supervising of Prof. Yang Liu, focusing on software/source code analysis.
   """
 
 [[experience]]
