@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   company = "Nanyang Technological University"
   company_url = "https://www.ntu.edu.sg"
   location = "Singapore"
-  date_start = "2021-08-10"
-  date_end = "Up to now"
+  date_start = "2021-08-06"
+  date_end = "2026-08-06"
   description = """
-  Under supervising of Prof. Yang Liu, focusing on software/source code analysis.
+  Under supervising of [Prof. Liu](https://personal.ntu.edu.sg/yangliu/), focusing on software/source code analysis.
   """
 
 [[experience]]
