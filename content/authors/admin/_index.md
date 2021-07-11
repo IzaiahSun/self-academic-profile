@@ -21,8 +21,8 @@ social:
     icon_pack: fas
     icon: book
   - link: https://www.linkedin.com/in/izaiah-sun-633023217/
-    icon_pack: fa
-    icon: linkedin-square
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Nanyang Technological University
     url: "https://www.ntu.edu.sg"
